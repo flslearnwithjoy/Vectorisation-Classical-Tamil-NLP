@@ -1,0 +1,26 @@
+SOURCE ATTRIBUTION AND REDISTRIBUTION NOTICE
+
+No original corpus text, extracted JSONL records, or derived training data are
+included in this repository.
+
+The Naaladiyar material used during corpus construction was obtained from the
+Project Madurai digital library:
+https://www.projectmadurai.org/
+
+Project Madurai's distribution page asks third-party distributors to retain the
+original header page, Project Madurai logo, and credit acknowledgements, and to
+contact its coordinators before online redistribution. This repository therefore
+provides parsing code only and does not redistribute Project Madurai text. See
+`PROJECT_MADURAI_NOTICE.txt` for the header-preservation condition.
+
+Thirukadukam and the Tholkappiyam source sections were obtained from the Tamil
+Virtual University: https://www.tamilvu.org/. The Tholkappiyam material was
+manually collected from that site. Tamil Virtual Academy confirmed that the
+specified texts may be used for this academic research; the message does not
+state redistribution permission. See `TAMILVU_ACADEMIC_USE_PERMISSION.txt`.
+Users must therefore obtain the texts directly and verify the applicable terms
+before creating or sharing a derived dataset.
+
+Please cite and acknowledge Project Madurai and the Tamil Virtual University as
+the digital sources of the texts used for extraction. This header does not grant
+permission to redistribute any source text or derivative dataset.

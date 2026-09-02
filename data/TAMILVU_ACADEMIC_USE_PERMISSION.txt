@@ -1,0 +1,15 @@
+TAMIL VIRTUAL UNIVERSITY / ACADEMY ACADEMIC-USE NOTE
+
+On 20 August 2026, Tamil Virtual Academy replied to the researcher's request
+about using Tamil texts available through https://www.tamilvu.org/ for the
+academic research project. The reply states that the specified publicly
+available Tamil texts may be used for academic research purposes.
+
+This repository does not include the original Tamil Virtual University texts or
+their extracted JSONL records. The reply does not explicitly grant permission
+to redistribute source texts or derivative datasets; this release therefore
+provides source attribution and code only.
+
+For this study, the Tholkappiyam material was manually collected from the Tamil
+Virtual University website. Please cite the Tamil Virtual University as the
+digital source and obtain the text directly before reproducing the extraction.

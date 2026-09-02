@@ -1,0 +1,13 @@
+# Never commit source texts, parsed records, archives, outputs, or model files.
+data/*
+!data/HEADER.txt
+!data/PROJECT_MADURAI_NOTICE.txt
+!data/TAMILVU_ACADEMIC_USE_PERMISSION.txt
+!data/SOURCES.md
+*.jsonl
+*.zip
+outputs/
+checkpoints/
+*.pt
+*.bin
+*.safetensors

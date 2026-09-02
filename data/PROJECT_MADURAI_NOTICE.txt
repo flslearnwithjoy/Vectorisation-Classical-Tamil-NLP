@@ -1,0 +1,19 @@
+PROJECT MADURAI HEADER-PRESERVATION NOTICE
+
+This repository contains no Project Madurai text. It contains only a parser
+that can be used with a text independently obtained from the Project Madurai
+Naaladiyar Nayavurai Unicode edition (pmuni0778):
+https://www.projectmadurai.org/pm_etexts/utf8/pmuni0778.html
+
+The pmuni0778 source header states: "You are welcome to freely distribute this
+file, provided this header page is kept intact." Its site also asks
+third-party distributors to retain the Project Madurai logo and credit
+acknowledgements, and to contact the coordinators before online distribution.
+
+If a Project Madurai source text is ever added to another distribution, include
+that source text's complete, unmodified, source-specific Project Madurai header
+with it. This notice records the condition but does not replace the original
+header and does not grant redistribution permission.
+
+For this study, Project Madurai is acknowledged as the digital source for the
+Naaladiyar material used in corpus construction.
